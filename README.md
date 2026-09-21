@@ -5,7 +5,7 @@ Some exploration if we can create some music on the BBC Master for a game.
 Sound chip: Texas Instruments SN76489
 SN76489AN? Diff?
 
-It is quite a basic chip with no envelopes. But attenuaten? Check.
+It is quite a basic chip with no envelopes. Attenuate? Check.
 
 
 Explore:
